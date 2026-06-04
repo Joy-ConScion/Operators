@@ -8,7 +8,7 @@ public class Receipt {
         double itemPrice = 4.99;
         int quantity = 3;
 
-        System.out.println("You bought " + quantity + " "+ item + "'s for " + itemPrice);
+        System.out.println("You bought " + quantity + " "+ item + "'s for $" + itemPrice);
 
     }
 
